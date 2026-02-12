@@ -1,8 +1,9 @@
 # NoobOS
 
-Das ist das Officelle # NoobOS
+Das ist das Officelle NoobOs
 
-Für alle # Noob's
+Für alle
+# Noob's
 
 Auf der ganzen Welt
 
